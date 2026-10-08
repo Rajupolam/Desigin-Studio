@@ -1,0 +1,7 @@
+{
+  "name": "Atelier Studio - Curated Design & Lifestyle",
+  "description": "Multi-screen editorial design & lifestyle application with interactive discovery, visual stories, catalog curation, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

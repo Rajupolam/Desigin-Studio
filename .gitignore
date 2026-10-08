@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output & caches
+dist/
+build/
+coverage/
+.cache/
+.vite/
+
+# Environment files & Secrets (CRITICAL: Keep strictly secret, never commit)
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+# Keep only template example file in git
+!.env.example
+
+# Secret keys, credentials & certificates
+*.pem
+*.key
+*.cert
+*.crt
+id_rsa*
+*.pfx
+secrets.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
